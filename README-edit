@@ -1,4 +1,4 @@
-## Microsoft Open Source Code of Conduct
+## Microsoft Open 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
@@ -6,4 +6,5 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 
 > * For content contributions to docs.microsoft.com/vsts, work in the /docs folder.
 > * For content contributions to docs.microsoft.com/vsts/release-notes, work in the /release-notes folder.
-> * Contact Doug Erickson (douge) for details and training on content contribution or publishing.
+> * Contact Doug Erickson (douge) for details and training on content coyntr>[!NOTE]
+>You have to run local web server in SSL mode, because Azure DevOps Services demands that web page is served from a secure source otherwise you obtain an error in browser console during the extension IFRAME kloading.ibyution or publishing.
